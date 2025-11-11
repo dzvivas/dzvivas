@@ -44,8 +44,7 @@
 
 # Certificaciones profesionales
 
-> **Microsoft Certified Power BI Data Analyst**
-> **(PL-300)**
+> **Certified Power BI Data Analyst**
 > Emitido en Agosto 2025
 
 ---
@@ -63,7 +62,7 @@
 > **Me encanta el aprendizaje continuo**
 - Me propuse a ver tutoriales, cursos, masterclass, webinar cada vez que hay oportunidad, aprender algo nuevo todos los días.
 
-> **¡Soy adicta al chocolate!**
+> **¡Soy adicta al chocolate y al Coco!**
 - ¡Me encanta en todas sus formas!
 
 ---
