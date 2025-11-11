@@ -1,6 +1,7 @@
-<img width="800" height="800" alt="FotoPortafolio" src="https://github.com/user-attachments/assets/ffdfd945-a5a3-4098-b506-914b6d775017" />
+<img width="800" height="1000" alt="FotoPortafolio" src="https://github.com/user-attachments/assets/ffdfd945-a5a3-4098-b506-914b6d775017" />
 
-# Soy Zulay Vivas - Analista de Datos
+# Soy Zulay Vivas 
+- Analista de Datos
 
 > Mi pasión es convertir datos complejos en historias visuales claras que guían las decisiones empresariales con confianza.
 
