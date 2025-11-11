@@ -45,7 +45,7 @@
 # Certificaciones profesionales
 
 > **Certified Power BI Data Analyst**
-> Emitido en Agosto 2025
+> Emitido en Julio 2024
 
 ---
 # Más cosas divertidas sobre mi
