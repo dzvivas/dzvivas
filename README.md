@@ -1,6 +1,6 @@
 <img width="1200" height="900" alt="FotoPortafolio" src="https://github.com/user-attachments/assets/ffdfd945-a5a3-4098-b506-914b6d775017" />
 
-# Soy Zulay Vivas 
+# Sobre mí
   
 
 > Mi pasión es convertir datos complejos en historias visuales claras que guían las decisiones empresariales con confianza.
@@ -13,7 +13,7 @@
 
 ---
 
-## Habilidades técnicas y profesionales
+# Habilidades técnicas y profesionales
 <img width="800" height="800" alt="LogosHabilidadesTecnicas" src="https://github.com/user-attachments/assets/5e9bf727-db36-45ba-a9b8-d3acbcca8d5a" />
 
 
@@ -24,9 +24,9 @@
 
 ---
 
-## Proyectos destacados
+# Proyectos destacados
 
-### 1. Análisis de Ventas y Desempeño por Categoría y Producto
+## 1. Análisis de Ventas y Desempeño por Categoría y Producto
 **Descripción**: Dashboard en Power BI que analiza el desempeño de ventas entre 2018 y 2021. Incluye KPIs clave (ventas totales, unidades vendidas, días de entrega), la evolución anual, el rendimiento por categoría y la identificación de productos con mejor y peor desempeño. Permite a la empresa priorizar estrategias y optimizar decisiones comerciales.
 
 [🔗 Ver Detalle del Informe PDF](https://drive.google.com/file/d/1iJyrFadKdJAMqRWE_BaYuLtvN-HPdbxT/view?usp=sharing)
@@ -35,7 +35,7 @@
 
 ---
 
-### 2. Análisis de Rendimiento y Gestión de Tickets de Soporte IT
+## 2. Análisis de Rendimiento y Gestión de Tickets de Soporte IT
 **Descripción**: Este dashboard ofrece una visión integral del rendimiento del equipo de soporte de TI. Permite visualizar el volumen de tickets, el tiempo de resolución y la distribución de la carga de trabajo, permitiendo a los líderes del equipo identificar tendencias, detectar ineficiencias y tomar decisiones basadas en datos para optimizar la operación y mejorar el servicio al cliente.
 
 [🔗 Ver Detalle del Informe PDF](https://drive.google.com/file/d/1972GJ1GiCMBd_SXHwXS0n7SkZ131Dy4h/view?usp=sharing)
@@ -44,14 +44,14 @@
 
 ---
 
-## Certificaciones profesionales
+# Certificaciones profesionales
 
 > **Microsoft Certified Power BI Data Analyst**
 > **(PL-300)**
 > Emitido en Agosto 2025
 
 ---
-## Más cosas divertidas sobre mi
+# Más cosas divertidas sobre mi
 
 > **Mi esposo, hijo y yo somos un equipo**
 - Hacemos todo en familia con mucho amor y respeto.
@@ -70,7 +70,7 @@
 
 ---
 
-### Si mi trabajo ha despertado tu interés o si ves una oportunidad de colaboración, por favor, no dudes en contactarme. Me entusiasmaría la idea de conectar contigo y explorar cómo el análisis de datos puede ser un motor de crecimiento para tu negocio 
+## Si mi trabajo ha despertado tu interés o si ves una oportunidad de colaboración, por favor, no dudes en contactarme. Me entusiasmaría la idea de conectar contigo y explorar cómo el análisis de datos puede ser un motor de crecimiento para tu negocio 
 
 
 - 📧 Email: zulayvivasyanes@gmail.com
