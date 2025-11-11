@@ -14,8 +14,6 @@
 ---
 
 # Habilidades técnicas y profesionales
-<img width="800" height="800" alt="LogosHabilidadesTecnicas" src="https://github.com/user-attachments/assets/5e9bf727-db36-45ba-a9b8-d3acbcca8d5a" />
-
 
 - **Herramienta de visualización**: Power BI
 - **Bases de Datos**: SQL (para interactuar con SQL Server)
