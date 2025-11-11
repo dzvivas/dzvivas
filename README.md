@@ -1,5 +1,4 @@
-<img width="300" height="300" alt="FotoPortafolio" src="![BannerZulay](https://github.com/user-attachments/assets/ffdfd945-a5a3-4098-b506-914b6d775017)
-" />
+<img width="300" height="300" alt="FotoPortafolio" src="https://github.com/user-attachments/assets/ffdfd945-a5a3-4098-b506-914b6d775017" />
 
 # Soy Zulay Vivas - Analista de Datos
 
