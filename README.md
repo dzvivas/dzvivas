@@ -2,7 +2,7 @@
 
 # Soy Zulay Vivas 
 Analista de Datos
--  
+  
 
 > Mi pasión es convertir datos complejos en historias visuales claras que guían las decisiones empresariales con confianza.
 
